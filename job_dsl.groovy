@@ -13,7 +13,7 @@ job('Tools/clone-repository') {
     wrappers {
         preBuildCleanup()
     }
-    triggers {}œ
+    triggers {}
 }
 
 job('Tools/SEED') {
